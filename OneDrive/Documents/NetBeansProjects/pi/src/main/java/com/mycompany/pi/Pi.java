@@ -73,7 +73,7 @@ public class Pi {
         
         // Sort feedback by rate
         
-        //System.out.println(feedbackService.sortBy("rate", "desc"));
+        System.out.println(feedbackService.sortBy("rate", "desc"));
         
         // Delete Feedback 
         //feedbackService.delete(1);
